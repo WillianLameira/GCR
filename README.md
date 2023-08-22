@@ -41,7 +41,7 @@ Para execução da aplicação, é necessário instalar o Node JS.
 #### 1️⃣ Fazer o clone do projeto.
 
 ```
-https://git.prodam.am.gov.br/gedes/dides/spweb/prodam-consignados-web.git
+https://github.com/WillianLameia/GCR
 ```
 
 #### 2️⃣ Executar o comando yarn na raiz do projeto para baixar e instalar as dependências;
